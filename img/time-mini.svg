@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="375" height="254" viewBox="0 0 375 254">
+  <g id="グループ_56" data-name="グループ 56" transform="translate(0 -2954)">
+    <line id="線_25" data-name="線 25" x1="0.186" y1="140" transform="translate(187.582 3066.481)" fill="none" stroke="rgba(21,24,47,0.25)" stroke-width="2.5"/>
+    <g id="グループ_22" data-name="グループ 22" transform="translate(53.82 2954)">
+      <text id="Time" transform="translate(82.18 32)" fill="#f52f7b" font-size="36" font-family="HiraginoSans-W6, Hiragino Sans" letter-spacing="0.08em"><tspan x="0" y="0">Time</tspan></text>
+      <g id="グループ_14" data-name="グループ 14" transform="translate(2 45.55)">
+        <g id="グループ_26" data-name="グループ 26" transform="translate(0 0)">
+          <text id="ズムコン" transform="matrix(0.998, -0.07, 0.07, 0.998, 10.535, 28.077)" fill="#323232" font-size="25" font-family="TsukuARdGothic-Bold, Tsukushi A Round Gothic" font-weight="700"><tspan x="0" y="0">ズムコン</tspan></text>
+          <text id="のスケジュール" transform="translate(110.18 22.45)" fill="#323232" font-size="21" font-family="HiraginoSans-W6, Hiragino Sans"><tspan x="0" y="0">のスケジュール</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="グループ_23" data-name="グループ 23" transform="translate(45.743 3169.009)">
+      <text id="参加を希望される日の当日_18:00までに公式LINEより_受付をお済ませ下さい_" data-name="参加を希望される日の当日
+18:00までに公式LINEより
+受付をお済ませ下さい。" transform="translate(-10.743 3.991)" fill="#323232" font-size="10" font-family="HiraginoSans-W4, Hiragino Sans"><tspan x="0" y="0">参加を希望される日の当日</tspan><tspan x="0" y="17">18:00までに公式LINEより</tspan><tspan x="0" y="34">受付をお済ませ下さい。</tspan></text>
+    </g>
+    <g id="グループ_24" data-name="グループ 24" transform="translate(219.42 3169.009)">
+      <text id="受付フォームの記入が_終わった方は_運営からの_連絡をお待ち下さい_" data-name="受付フォームの記入が
+終わった方は、運営からの
+連絡をお待ち下さい。" transform="translate(4.58 3.991)" fill="#323232" font-size="10" font-family="HiraginoSans-W4, Hiragino Sans"><tspan x="0" y="0">受付フォームの記入が</tspan><tspan x="0" y="17">終わった方は、運営からの</tspan><tspan x="0" y="34">連絡をお待ち下さい。</tspan></text>
+    </g>
+    <text id="受付時間" transform="translate(97 3077)" fill="#323232" font-size="16" font-family="HiraginoSans-W6, Hiragino Sans"><tspan x="-32" y="0">受付時間</tspan></text>
+    <text id="開催時間" transform="translate(284 3077)" fill="#323232" font-size="16" font-family="HiraginoSans-W6, Hiragino Sans"><tspan x="-32" y="0">開催時間</tspan></text>
+    <text id="_25:00_18:00" data-name="25:00〜18:00" transform="translate(95 3132)" fill="#323232" font-size="18" font-family="HiraginoSans-W6, Hiragino Sans"><tspan x="-65.124" y="0">25:00〜18:00</tspan></text>
+    <text id="_19:00_25:00" data-name="19:00〜25:00" transform="translate(283 3132)" fill="#323232" font-size="18" font-family="HiraginoSans-W6, Hiragino Sans"><tspan x="-65.124" y="0">19:00〜25:00</tspan></text>
+    <line id="線_28" data-name="線 28" x1="63.858" y1="0.134" transform="translate(64.903 3080.891)" fill="none" stroke="#f52f7b" stroke-width="2.5"/>
+    <line id="線_29" data-name="線 29" x1="62.949" y1="0.216" transform="translate(252.54 3080.808)" fill="none" stroke="#f52f7b" stroke-width="2.5"/>
+    <rect id="長方形_71" data-name="長方形 71" width="8" height="77" transform="translate(367 2981)" fill="#fff"/>
+    <rect id="長方形_73" data-name="長方形 73" width="8" height="79" transform="translate(0 2954)" fill="#fff"/>
+  </g>
+</svg>
