@@ -1,44 +1,227 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-weight: bold;
-  font-family: 'メイリオ', 'Meiryo', 'YuGothic','Yu Gothic','Hiragino Kaku Gothic ProN','ヒラギノ角ゴ ProN W3','ＭＳ ゴシック',sans-serif;
- }
-
-a{
-	text-decoration: none;
-	color: white;
+*{
+    margin: 0;
+    padding: 0;
+    font-family: ‘メイリオ’, ‘Meiryo’, ‘YuGothic’,‘Yu Gothic’,‘Hiragino Kaku Gothic ProN’,‘ヒラギノ角ゴ ProN W3’,‘ＭＳ ゴシック’,sans-serif;
+}
+/* フォント　*/
+.font--11{
+    font-size: 11px;
+}
+.font--12{
+    font-size: 12px;
+}
+.font--13{
+    font-size: 13px;
+}
+.font--14{
+    font-size: 14px;
+}
+.font--16{
+    font-size: 16px;
+}
+.font--18{
+    font-size: 16px;
+}
+.font--20{
+    font-size: 20px;
+}
+.font--25{
+    font-size: 25px;
+}
+.font--wgt{
+    font-weight: 700;
+}
+.mt--15{
+    margin-top: 15px;
+}
+.mt--20{
+    margin-top: 20px;
+}
+.ptb--24{
+    padding: 24px 0;
+}
+.border--btm{
+    border-bottom: solid 3px #F52F7B;
+    display: inline-block;
+}
+.line{
+    height: 220px;
+    width: 3px;
+    display: inline-block;
+    background-color: #ccc;
+}
+.line2{
+    height: 150px;
+    width: 3px;
+    display: inline-block;
+    background-color: #ccc;
+}
+body{
+    max-width: 450px;
+    margin: auto;
 }
 
-.clearfix::after{
-	content: "";
-	display: block;
-	clear: both;
+.logo{
+    padding-right: 5px;
 }
 
-.phone{
-	max-width: 375px;
-	margin: 0 auto;
-}
 
-.btn{
-	background-color: #F52F7B;
-	padding: 20px 30px;
-	color: white;
+/* header */
+
+header{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header{
 	width: 100%;
-	max-width: 375px;
-	font-size: 18px;
-	font-family: 'YuGothic';
-	font-weight: bold;
-	position: fixed;
-	bottom: 0;
-	left: 0;
-	right: 0;
+	max-width: 450px;
 	margin: auto;
-	text-align: center;
+    height: 67px;
+    background-color: #F52F7B;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 2;
+}
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 700;
 }
 
-img {
-  pointer-events: none;
+/* top */
+
+.top{
+    text-align: center;
 }
+.top__img{
+    text-align: center;
+}
+.top__img-girl{
+    width: 100%
+}
+.top__txt{
+    padding: 25px 0;
+    line-height: 45px;
+}
+
+/* how to */
+
+.main{
+    text-align: center;
+    padding: 42px 0;
+}
+.main__content-ttl{
+    font-size: 36px;
+    font-weight: 600;
+    color: #F52F7B;
+}
+.main__content-sub-ttl{
+    padding-top: 15px;
+    font-size: 21px;
+    font-weight: 700;
+}
+.main__content-box{
+    padding: 24px 0;
+}
+.main__content-img{
+    padding-bottom: 35px;
+    margin: auto;
+}
+.main__content-box-num{
+    font-size: 36px;
+    position: relative;
+    right: 80px;
+    color: #F52F7B;
+}
+.main__content-txt{
+    text-align: center;
+}
+
+/* plan */
+
+.main__content-detail-box{
+    width: 140px;
+    height: auto;
+    display: inline-block;
+    padding: 20px;
+}
+.main__content-img2{
+    padding: 25px 0;
+}
+
+/* time */
+
+.main__content-detail-time{
+    padding: 30px 0;
+}
+
+/* Q&A */
+
+.qp__content{
+    padding: 20px 0;
+}
+.qa__box{
+    width: 85%;
+    margin: 0 auto;
+    text-align: left;
+    border-top: solid 3px #FEE9F1;
+}
+.qa__box:last-child{
+    border-bottom: solid 3px #FEE9F1;
+}
+.qa__q{
+    padding: 20px;
+}
+.qa__q-txt{
+    font-size: 13px;
+}
+.qa__q-icon{
+    font-size: 16px;
+}
+.qa__a{
+    display: none;
+    padding:0 20px 20px 20px;
+}
+.qa__a-txt{
+    padding-left: 24px;
+    text-indent: -2em;
+}
+.qa__a-icon{
+    font-size: 16px;
+}
+
+.footer{
+    font-size: 16px;
+    text-align: center;
+    padding: 10px 0 127px 0;
+}
+@media screen and (max-width:374px) {
+    .main__content-detail-box{
+        width: 120px;
+        padding: 14px;
+    }
+    .font--11{
+        font-size: 10px;
+    }
+    .suppin{
+        width: 320px;
+        height: auto;
+    }
+}
+/* 
+@media screen and (min-width:500px) {
+    .header{
+        width: 450px;
+        margin: auto;
+    }
+} */
