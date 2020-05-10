@@ -1,13 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="375" height="298.098" viewBox="0 0 375 298.098">
-  <g id="グループ_58" data-name="グループ 58" transform="translate(0 -744.009)">
-    <g id="グループ_41" data-name="グループ 41" transform="translate(-67 38)">
-      <text id="は_" data-name="は、" transform="translate(302 738)" fill="#323232" font-size="29" font-family="YuGo-Bold, YuGothic" font-weight="700" letter-spacing="0.08em"><tspan x="0" y="0">は、</tspan></text>
-      <text id="_自宅で安心して_気軽に合コンできる_サービスです_" data-name="　自宅で安心して、
-　気軽に合コンできる 
-　サービスです。" transform="translate(255 790)" fill="#323232" font-size="21" font-family="YuGo-Bold, YuGothic" font-weight="700" letter-spacing="0.08em"><tspan x="-133.72" y="0">　</tspan><tspan y="0" font-size="29">自宅で安心して、</tspan><tspan x="-156.413" y="50">　</tspan><tspan y="50" font-size="29">気軽に合コンできる </tspan><tspan x="-118.06" y="100">　</tspan><tspan y="100" font-size="29">サービスです。</tspan></text>
-      <text id="ズムコン" transform="matrix(0.998, -0.07, 0.07, 0.998, 163.799, 742.87)" fill="#f52f7b" font-size="32" font-family="TsukuARdGothic-Bold, Tsukushi A Round Gothic" font-weight="700"><tspan x="0" y="0">ズムコン</tspan></text>
-    </g>
-    <g id="グループ_42" data-name="グループ 42" transform="translate(-589 201)">
+<svg xmlns="http://www.w3.org/2000/svg" width="251.418" height="85.26" viewBox="0 0 251.418 85.26">
+  <g id="グループ_104" data-name="グループ 104" transform="translate(-64 -946.847)">
+    <g id="グループ_42" data-name="グループ 42" transform="translate(-589 191)">
       <g id="Layer_2" data-name="Layer 2" transform="matrix(0.883, 0.469, -0.469, 0.883, 883.968, 755.606)">
         <g id="heart" transform="translate(0 0)">
           <rect id="長方形_63" data-name="長方形 63" width="13.291" height="13.291" transform="translate(2.77 0)" fill="#f52f7b" opacity="0"/>
@@ -30,7 +23,5 @@
         </g>
       </g>
     </g>
-    <rect id="長方形_75" data-name="長方形 75" width="13" height="188" transform="translate(0 759)" fill="#fff"/>
-    <rect id="長方形_76" data-name="長方形 76" width="13" height="188" transform="translate(362 759)" fill="#fff"/>
   </g>
 </svg>
