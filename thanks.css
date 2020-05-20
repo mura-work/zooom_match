@@ -1,13 +1,12 @@
 *{
     padding: 0;
     margin: 0;
-    font-family: ‘メイリオ’, ‘Meiryo’, ‘YuGothic’,‘Yu Gothic’,‘Hiragino Kaku Gothic ProN’,‘ヒラギノ角ゴ ProN W3’,‘ＭＳ ゴシック’,sans-serif;
 }
 .red{
     color: #C25338;
 }
 .pdb{
-    padding-bottom: 18px;
+    padding-bottom: 25px;
 }
 body {
     padding-top:25px;
@@ -45,7 +44,7 @@ h2 {
 .main__txt{
     font-size: 20px;
     font-weight: bold;
-    margin: 30px;
+    margin: 40px;
 }
 .main__txt2{
     font-size: 12px;
