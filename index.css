@@ -62,7 +62,7 @@ body{
 }
 
 .logo{
-    padding-right: 10px;
+    padding-right: 15px;
 }
 
 
@@ -110,15 +110,55 @@ a{
     width: 100%
 }
 .top__txt{
-    padding: 25px 0;
+    padding: 25px 0 0 0;
     line-height: 45px;
 }
+
+
+.img-media{
+    padding: 20px;
+}
+/* reasons */
+
+.reasons{
+    width: 100%;
+    padding: 20px 0　10px 0;
+    background-color: #FEE0EB;
+}
+.reasons_text{
+    padding-top: 25px;
+    font-size: 21px;
+    font-weight: 700;
+}
+.reasons__content{
+    width: 85%;
+    padding: 20px 0;
+    margin: auto;
+    text-align: left;
+}
+.reasonsContent__txt{
+    font-weight: bold;
+    padding: 10px 0;
+
+}
+.checkbox2{
+    margin-right: 16px;
+}
+@media screen and (min-width:500px) {
+    .reasons__content{
+        width: 70%;
+        padding: 20px 0;
+        margin: auto;
+        text-align: left;
+    }
+}
+
 
 /* how to */
 
 .main{
     text-align: center;
-    padding: 42px 0;
+    padding: 32px 0;
 }
 .main__content-ttl{
     font-size: 36px;
@@ -201,10 +241,19 @@ a{
 }
 
 .footer{
-    font-size: 16px;
-    text-align: center;
     padding: 10px 0 127px 0;
+    width: 270px;
+    margin: 0 auto;
 }
+
+.footer_content a {
+    font-size: 14px;
+    font-weight: 700;
+    color: black;
+    float: left;
+    padding-left: 30px;
+}
+
 @media screen and (max-width:374px) {
     .main__content-detail-box{
         width: 120px;
