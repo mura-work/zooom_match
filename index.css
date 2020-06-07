@@ -126,13 +126,15 @@ a{
     background-color: #FEE0EB;
 }
 .reasons_text{
-    padding-top: 25px;
+    padding-top: 35px;
+    padding-bottom: 15px;
     font-size: 21px;
     font-weight: 700;
+    color: #F52F7B;
 }
 .reasons__content{
     width: 85%;
-    padding: 20px 0;
+    padding-bottom: 35px;
     margin: auto;
     text-align: left;
 }
