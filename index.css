@@ -98,6 +98,16 @@ a{
     font-weight: 700;
 }
 
+#btn-link{
+    text-decoration: none;
+    color: white;
+    background-color: #F52F7B;
+    border-style: none;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 700;
+}
+
 /* top */
 
 .top{
